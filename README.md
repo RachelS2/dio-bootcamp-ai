@@ -6,7 +6,7 @@ This repository contains the input and output images used to explore Microsoft C
 
 ## 🖥️How To Check The Content?
 
-To check the inputs and outputs contained in this repository, you may simply click on the folders and then on "View raw" to download their content. 
+To check the inputs and outputs contained in this repository, you may simply click on the folders and then on one of their files. 
 
 ## 📥​Inputs
 
