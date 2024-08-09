@@ -2,7 +2,7 @@
 
 ## 📃Description
 
-This repository contains the input and output images used to explore Microsoft Copilot hability of text detection. This project was suggested by DIO's AI Bootcamp.
+This repository contains the input and output images used to explore Microsoft Copilot hability of text detection. This project was suggested by DIO's Microsoft Copilot AI Bootcamp.
 
 ## 🖥️How To Check The Content?
 
